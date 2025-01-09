@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a proffesional programmer, i live in trenggalek, the best city in the world. Google please hire me.
+👨‍💻 I'm currently studying in Trunojo University
+🤝 I'm looking to collaborate on: Open-source projects related to Web, Mobile Application, machine learning and natural language processing.
+🔍 I'm looking for help with: Implementing advanced algorithms for data analysis in Python.
+📚 I'm currently learning: Deep learning techniques for image recognition.
+❓ Ask me about: Tips for efficient code optimization in Python.
+🎉 Fun fact: The world's largest desert is not the Sahara, but Antarctica!
+
 
 
 ## 🌐 Socials:
